@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thomass171
 - 👀 I’m interested in 
   - Flight Simulation
+  - Maze Games
   - VR
 - 📫 Reach me at thomass@yard.de
 
